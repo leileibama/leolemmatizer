@@ -98,7 +98,7 @@ postag_lemmatize(language_model_folder = 'C:/',
 
 #install.packages('dplyr')
 
-#install.packages('dplyr')
+#install.packages('Rtools')
 
 #install.packages('devtools')
 
