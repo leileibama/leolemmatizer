@@ -2,7 +2,7 @@
 
 ## Description
 
-A package that postags and lemmatizes English texts in a folder
+A package that postags and lemmatizes English texts in a folder (https://github.com/leileibama/leolemmatizer)
 
 Based on udpipe (https://github.com/bnosac/udpipe)
 
