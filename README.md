@@ -76,7 +76,7 @@ postag_lemmatize(language_model_folder = 'C:/',
 #2. download the language model
 
 
-###
+##
 ### 1. install the following packages
 
 #install the package "udpipe"
@@ -95,8 +95,7 @@ postag_lemmatize(language_model_folder = 'C:/',
 
 #install_github("bnosac/udpipe", build_vignettes = TRUE)
 
-###
-
+##
 ### 2. download the language model
 
 #download the English language model
