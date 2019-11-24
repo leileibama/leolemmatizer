@@ -20,6 +20,7 @@ Refer to the fowlloing for udpipe, the R package
 https://github.com/bnosac/udpipe
 
 
+##
 ## Installation
 
 #install.packages("devtools")
@@ -28,6 +29,7 @@ library(devtools)
 
 install_github("leileibama/leolemmatizer")
 
+##
 ## Examples
 
 #use the function postag_lemmatize()
@@ -58,7 +60,7 @@ postag_lemmatize(language_model_folder = 'C:/',
                  texts_folder = 'C:/mytexts/'))
 
 
-
+##
 ### IMPORTANT
 
 #before use the package and the function
@@ -70,6 +72,7 @@ postag_lemmatize(language_model_folder = 'C:/',
 #2. download the language model
 
 
+###
 ### 1. install the following packages
 
 #install the package "udpipe"
@@ -87,6 +90,8 @@ postag_lemmatize(language_model_folder = 'C:/',
 #install.packages('chron')   #needed for 'udpipe'
 
 #install_github("bnosac/udpipe", build_vignettes = TRUE)
+
+###
 
 ### 2. download the language model
 
