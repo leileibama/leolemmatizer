@@ -67,6 +67,13 @@ install_github("leileibama/leolemmatizer")
 #_postag_lemma.csv, .csv file, with detailed information such as paragraph id, sentence id, token, lemma, and postag
 
 #
+library(dplyr)
+
+library(readr)
+
+library(udpipe)
+
+library(leolemmatizer)
 
 postag_lemmatize(language_model_folder = 'C:/',
                  texts_folder = 'C:/mytexts/'))
