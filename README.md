@@ -12,7 +12,6 @@ Lei, L., & Wen, J. (2019). Is dependency distance experiencing a process of mini
 
 Lei, L., & Jockers, M. L. (2018). Normalized Dependency Distance: Proposing a New Measure. Journal of Quantitative Linguistics, 1–18. https://doi.org/10.1080/09296174.2018.1504615
 
-
 ##
 The package is based on udpipe.
 
@@ -20,6 +19,13 @@ Refer to the fowlloing for udpipe, the R package
 
 https://github.com/bnosac/udpipe
 
+##
+## Developer
+Leo Lei Lei
+
+Professor of Applied Linguistics, Huazhong University of Science and Technology
+
+Contact: leileicn@qq.com
 
 ##
 ## Installation
