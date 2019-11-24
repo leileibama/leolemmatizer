@@ -102,6 +102,8 @@ postag_lemmatize(language_model_folder = 'C:/',
 
 #install.packages('dplyr')
 
+#install.packages('readr')
+
 #install.packages('devtools')
 
 #install.packages('data.table')  #needed for 'udpipe'
