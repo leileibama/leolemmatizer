@@ -117,7 +117,7 @@ postag_lemmatize(language_model_folder = 'C:/',
 
 #english-ewt-ud-2.4-190531.udpipe
 
-#from https://github.com/jwijffels/udpipe.models.ud.2.4/tree/master/inst/udpipe-ud-2.4-190531
+#from https://github.com/jwijffels/udpipe.models.ud.2.4/blob/master/inst/udpipe-ud-2.4-190531/english-ewt-ud-2.4-190531.udpipe
 
 #and move it to the C disk root foloder "C:/"
 
