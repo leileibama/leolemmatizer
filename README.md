@@ -13,6 +13,7 @@ Lei, L., & Wen, J. (2019). Is dependency distance experiencing a process of mini
 Lei, L., & Jockers, M. L. (2018). Normalized Dependency Distance: Proposing a New Measure. Journal of Quantitative Linguistics, 1–18. https://doi.org/10.1080/09296174.2018.1504615
 
 
+##
 The package is based on udpipe.
 
 Refer to the fowlloing for udpipe, the R package
@@ -39,6 +40,7 @@ install_github("leileibama/leolemmatizer")
 #or set your own language_model_folder and texts_folder
 
 
+#
 #put the language model in the language_model_folder
 
 #put your to-be-processed text files in the texts_folder
@@ -55,6 +57,8 @@ install_github("leileibama/leolemmatizer")
 #_lemmatized.txt, in "lemma" format
 
 #_postag_lemma.csv, .csv file, with detailed information such as paragraph id, sentence id, token, lemma, and postag
+
+#
 
 postag_lemmatize(language_model_folder = 'C:/',
                  texts_folder = 'C:/mytexts/'))
