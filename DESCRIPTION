@@ -1,51 +1,9 @@
 Package: leolemmatizer
 Type: Package
-Title: leolemmatizer: 
-A package that postags and lemmatizes English texts in a folder
-Based on udpipe (https://github.com/bnosac/udpipe)
+Title: leolemmatizer: A package that postags and lemmatizes English texts in a folder, based on udpipe (https://github.com/bnosac/udpipe)
 Version: 0.1.0
 Author: Leo Lei Lei
 Maintainer: Leo Lei Lei <leileicn@qq.com>
 Description: A package that postags and lemmatizes English texts in a folder
-    
-    Please kindly cite the following articles if you use leolemmatizer in your research:
-    Lei, L., & Wen, J. (2019). Is dependency distance experiencing a process of minimization? A diachronic study based on the State of the Union addresses. Lingua, S002438411930511X. https://doi.org/10.1016/j.lingua.2019.102762
-    Lei, L., & Jockers, M. L. (2018). Normalized Dependency Distance: Proposing a New Measure. Journal of Quantitative Linguistics, 1–18. https://doi.org/10.1080/09296174.2018.1504615
-
-    The package is based on udpipe.
-    Refer to the fowlloing for udpipe, the R package
-    https://github.com/bnosac/udpipe
-
 License: It is freeware. 
 Encoding: UTF-8
-
-
-# leolemmatizer
-
-#########
-# IMPORTANT
-# before use the package and the function
-# read the following
-# 1. install the following packages
-# 2. download the language model
-
-
-# 1. install the following packages
-# install the package "udpipe"
-#install.packages("udpipe")
-
-#install.packages('dplyr')
-#install.packages('dplyr')
-
-#install.packages('devtools')
-#install.packages('data.table')  #needed for 'udpipe'
-#install.packages('chron')   #needed for 'udpipe'
-#install_github("bnosac/udpipe", build_vignettes = TRUE)
-
-# 2. download the language model
-# download the English language model
-# english-ewt-ud-2.4-190531.udpipe
-#from https://github.com/jwijffels/udpipe.models.ud.2.4/tree/master/inst/udpipe-ud-2.4-190531
-# and move it to the C disk root foloder "C:/"
-#'C:/english-ewt-ud-2.4-190531.udpipe'
-
