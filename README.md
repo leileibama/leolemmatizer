@@ -88,17 +88,19 @@ postag_lemmatize(language_model_folder = 'C:/',
 
 #2. download the language model
 
+#3. concerning your to-be-processed text files
+
 
 ##
 ### 1. install the following packages
+
+#install Rtools for your Windows OS: https://cran.r-project.org/bin/windows/Rtools/
 
 #install the package "udpipe"
 
 #install.packages("udpipe")
 
 #install.packages('dplyr')
-
-#install.packages('Rtools')
 
 #install.packages('devtools')
 
@@ -117,8 +119,13 @@ postag_lemmatize(language_model_folder = 'C:/',
 
 #from https://github.com/jwijffels/udpipe.models.ud.2.4/blob/master/inst/udpipe-ud-2.4-190531/english-ewt-ud-2.4-190531.udpipe
 
-#and move it to the C disk root foloder "C:/"
+#and move it to the C disk root foloder "C:/"  (the default language model foder)
 
 #'C:/english-ewt-ud-2.4-190531.udpipe'
 
+##
+### 3. concerning your to-be-processed text files
 
+#your to-be-processed text files should be text files
+
+#put your to-be-processed text files in the folder 'C:/mytexts/' (the default texts_folder)
