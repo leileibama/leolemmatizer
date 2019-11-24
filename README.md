@@ -6,6 +6,15 @@ A package that postags and lemmatizes English texts in a folder (https://github.
 
 Based on udpipe (https://github.com/bnosac/udpipe)
 
+##
+## Developer
+Leo Lei Lei
+
+Professor of Applied Linguistics, Huazhong University of Science and Technology
+
+Contact: leileicn@qq.com
+
+##
 ### Please kindly cite the following articles if you use leolemmatizer in your research:
 
 Lei, L., & Wen, J. (2019). Is dependency distance experiencing a process of minimization? A diachronic study based on the State of the Union addresses. Lingua, S002438411930511X. https://doi.org/10.1016/j.lingua.2019.102762
@@ -19,13 +28,6 @@ Refer to the fowlloing for udpipe, the R package
 
 https://github.com/bnosac/udpipe
 
-##
-## Developer
-Leo Lei Lei
-
-Professor of Applied Linguistics, Huazhong University of Science and Technology
-
-Contact: leileicn@qq.com
 
 ##
 ## Installation
