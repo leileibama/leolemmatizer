@@ -8,7 +8,7 @@ Based on udpipe (https://github.com/bnosac/udpipe)
 
 ##
 ## Developer
-Dr. Leo Lei Lei, Professor of Applied Linguistics, Huazhong University of Science and Technology, China
+Dr. Leo Lei Lei, Professor of Applied Linguistics, Shanghai Jiao Tong University, China
 
 Contact: leileicn@qq.com
 
